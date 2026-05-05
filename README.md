@@ -53,7 +53,7 @@ Final model uses the following features:
 
 ## 📊 Model Performance
 
-* Accuracy: ~XX% (depends on dataset)
+* Accuracy: ~97% (depends on dataset)
 * Includes:
 
   * Confusion Matrix
