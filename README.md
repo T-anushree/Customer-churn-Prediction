@@ -114,4 +114,5 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-Tanushree
+Tanushree H R
+Linkdin: https://www.linkedin.com/in/tanushree-h-r-ab4741305
