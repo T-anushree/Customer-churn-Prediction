@@ -98,8 +98,10 @@ streamlit run app.py
 
 ## 📸 Screenshot
 
-(Add screenshot of dashboard here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26e3911e-0140-478b-841f-bede58eebb07" />
 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3d78b1f-923f-4f35-b68f-80d462683f67" />
 ---
 
 ## 🚀 Future Improvements
